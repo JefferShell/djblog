@@ -1,0 +1,2 @@
+# djblog
+#just gor ydsy
